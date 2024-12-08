@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Gestión Personal</string>
+    <string name="login_button">Login</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="map_description">Map showing location data</string>
+    <string name="google_client_id">1234567890-abcxyz.apps.googleusercontent.com</string>
+    <string name="dog_image">Imagen de un perro</string>
+    <string name="fetch_dog">Obtener imagen de perro</string>
+    <string-array name="dog_sizes_array">
+        <item>Pequeño</item>
+        <item>Mediano</item>
+        <item>Grande</item>
+    </string-array>
+    <string name="zoom_in">Acercar</string>
+    <string name="zoom_out">Alejar</string>
+    <string name="ubicacion_actual">Mi ubicación</string>
+</resources>
